@@ -1,6 +1,6 @@
-# [Truckville OCC Dispatch Manager](https://discord.gg/truckville/)
+# [FivePoint SAC Dispatch Manager](https://discord.gg/fivepoint/)
 
-**Truckville's OCC Dispatch Manager** is a free, volunteer-driven initiative designed to streamline operations for OCC Telecommunicators. Our goal is to provide a reliable and user-friendly tool to enhance efficiency and effectiveness in dispatch management.
+**FivePoint's SAC Dispatch Manager** is a free, volunteer-driven initiative designed to streamline operations for PSD Telecommunicators. Our goal is to provide a reliable and user-friendly tool to enhance efficiency and effectiveness in dispatch management.
 
 ## Project Roadmap
 
@@ -18,4 +18,4 @@
 - Custom system messages!
 - Redesigned call functionality!
 - Custom call functionality!
-- And so much more behind-the-scenes changes! (incl. framework for new future updates)
+- And so many more behind-the-scenes changes! (incl. framework for new future updates)
