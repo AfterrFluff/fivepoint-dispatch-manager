@@ -12,10 +12,10 @@
 | ![status: Done](https://img.shields.io/badge/status-Done-brightgreen) | Proper Navbar (Zulu time displayed) |
 | ![status: Planned](https://img.shields.io/badge/status-Planned-blue) | Add User Settings |
 
-## 0.2.2 - 01/14/2025
+## 1.0.1-ea - 08/28/2025
 ### Change-logs
-- Rebuilt website from the ground up!
+- Built website from the ground up!
 - Custom system messages!
 - Redesigned call functionality!
-- Access the Greenville map in-app!
-- And so much more behind-the-scenes changes!
+- Custom call functionality!
+- And so much more behind-the-scenes changes! (incl. framework for new future updates)
