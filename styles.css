@@ -7,7 +7,7 @@
   --secondary-color: #202024;
   --tertiary-color: #1f1f23;
   --page-block: #18181b;
-  --btn-selected: #3b6cec;
+  --btn-selected: #d80f1a;
   --txt-color: #ffffff;
   --txt-content-color: #dedee7;
   --vertical-line-color: #3b3b40;
@@ -324,31 +324,19 @@ option.status-on-scene {
   color: #26a642;
 }
 
-option.status-priority {
+option.status-panic {
   color: red;
 }
 
-option.fvmpd {
-  color: #0031a5;
+option.leo {
+  color: #2573fb;
 }
 
-option.nps {
-  color: #127501;
+option.fd {
+  color: #a73535;
 }
 
-option.ouso {
-  color: #866551;
-}
-
-option.wsp {
-  color: #476fb4;
-}
-
-option.gvfd {
-  color: #9b3a3a;
-}
-
-option.wisdot {
+option.dot {
   color: #e49310;
 }
 
